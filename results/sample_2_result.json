@@ -1,0 +1,74 @@
+{
+    "brand_name": {
+        "value": "CADEVE",
+        "selectors": {
+            "css_selector": "No CSS Selector Found",
+            "xpath": "No XPath Found"
+        }
+    },
+    "product_category": {
+        "value": "Gaming Keyboard And Mouse",
+        "selectors": {
+            "css_selector": "No CSS Selector Found",
+            "xpath": "No XPath Found"
+        }
+    },
+    "product_description": {
+        "value": "Rainbow Backlit Waterproof Multimedia Mechanical Gaming Keyboard And Mouse with 104 keys, suspended keycap design, double shot molding, and high-quality suspension keycap design for comfortable gaming and typing.",
+        "selectors": {
+            "css_selector": "No CSS Selector Found",
+            "xpath": "No XPath Found"
+        }
+    },
+    "product_images": [
+        {
+            "value": "https://static-01.daraz.com.np/p/44ecfd3b7d22f1a401140352fee88557.jpg_750x750.jpg_.webp",
+            "selectors": {
+                "css_selector": "div > div:nth-of-type(3) > div:nth-of-type(1) > div > div > div:nth-of-type(1) > div:nth-of-type(1) > img",
+                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/img[1]"
+            }
+        },
+        {
+            "value": "https://static-01.daraz.com.np/p/dfc37e4cca5a2d351bdcdc991f953132.jpg_100x100.jpg_.webp",
+            "selectors": {
+                "css_selector": "div > div:nth-of-type(3) > div:nth-of-type(1) > div > div > div:nth-of-type(2) > div > div:nth-of-type(1) > div > div:nth-of-type(3) > div > img",
+                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/img[1]"
+            }
+        },
+        {
+            "value": "https://static-01.daraz.com.np/p/e6e8400d0bea792d66493f1d45296430.jpg_100x100.jpg_.webp",
+            "selectors": {
+                "css_selector": "div > div:nth-of-type(3) > div:nth-of-type(1) > div > div > div:nth-of-type(2) > div > div:nth-of-type(1) > div > div:nth-of-type(4) > div > img",
+                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/img[1]"
+            }
+        },
+        {
+            "value": "https://static-01.daraz.com.np/p/695a54036b5c48836fbf2a6cc73f9461.jpg_100x100.jpg_.webp",
+            "selectors": {
+                "css_selector": "div > div:nth-of-type(3) > div:nth-of-type(1) > div > div > div:nth-of-type(2) > div > div:nth-of-type(1) > div > div:nth-of-type(5) > div > img",
+                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[5]/div[1]/img[1]"
+            }
+        },
+        {
+            "value": "https://static-01.daraz.com.np/p/f34d2899056bfbbaebfee05664078d65.jpg_100x100.jpg_.webp",
+            "selectors": {
+                "css_selector": "div > div:nth-of-type(3) > div:nth-of-type(1) > div > div > div:nth-of-type(2) > div > div:nth-of-type(1) > div > div:nth-of-type(6) > div > img",
+                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[6]/div[1]/img[1]"
+            }
+        }
+    ],
+    "product_name": {
+        "value": "CADEVE 9122 Rainbow Backlit Waterproof Multimedia Mechanical Gaming Keyboard And Mouse",
+        "selectors": {
+            "css_selector": "div > div:nth-of-type(3) > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(3) > div > div > span",
+            "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/span[1]"
+        }
+    },
+    "product_price": {
+        "value": "Rs. 1,350",
+        "selectors": {
+            "css_selector": "div > div:nth-of-type(3) > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(7) > div > div > span",
+            "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]/span[1]"
+        }
+    }
+}

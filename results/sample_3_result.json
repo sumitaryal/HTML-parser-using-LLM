@@ -1,0 +1,95 @@
+{
+    "brand_name": {
+        "value": "Redmi",
+        "selectors": {
+            "css_selector": "div > div:nth-of-type(3) > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(5) > div > a:nth-of-type(1)",
+            "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[5]/div[1]/a[2]"
+        }
+    },
+    "product_category": {
+        "value": "Earbuds",
+        "selectors": {
+            "css_selector": "No CSS Selector Found",
+            "xpath": "No XPath Found"
+        }
+    },
+    "product_description": {
+        "value": "The powerful 12mm Bass Pro drivers, are designed to deliver an immersive audio experience with deep, rich bass and crisp, clear highs",
+        "selectors": {
+            "css_selector": "No CSS Selector Found",
+            "xpath": "No XPath Found"
+        }
+    },
+    "product_images": [
+        {
+            "value": "https://static-01.daraz.com.np/p/3c6e7b2f17de114a12e1e682772404ec.jpg_750x750.jpg_.webp",
+            "selectors": {
+                "css_selector": "div > div:nth-of-type(3) > div:nth-of-type(1) > div > div > div:nth-of-type(1) > div:nth-of-type(1) > img",
+                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/img[1]"
+            }
+        },
+        {
+            "value": "https://static-01.daraz.com.np/p/e8837080ebc8b51eca4174f75c35ed59.png_100x100.jpg_.webp",
+            "selectors": {
+                "css_selector": "div > div:nth-of-type(3) > div:nth-of-type(1) > div > div > div:nth-of-type(2) > div > div:nth-of-type(1) > div > div:nth-of-type(2) > div > img",
+                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/img[1]"
+            }
+        },
+        {
+            "value": "https://static-01.daraz.com.np/p/28accbfc732ce1ae68ed9aff0de0430b.jpg_100x100.jpg_.webp",
+            "selectors": {
+                "css_selector": "div > div:nth-of-type(3) > div:nth-of-type(1) > div > div > div:nth-of-type(2) > div > div:nth-of-type(1) > div > div:nth-of-type(3) > div > img",
+                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/img[1]"
+            }
+        },
+        {
+            "value": "https://static-01.daraz.com.np/p/ed2a02a665dfa1b3f2c386ba002e2a23.jpg_100x100.jpg_.webp",
+            "selectors": {
+                "css_selector": "div > div:nth-of-type(3) > div:nth-of-type(1) > div > div > div:nth-of-type(2) > div > div:nth-of-type(1) > div > div:nth-of-type(4) > div > img",
+                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/img[1]"
+            }
+        },
+        {
+            "value": "https://static-01.daraz.com.np/p/c3abc65f0c2523add2ac3f77a4186c50.jpg_100x100.jpg_.webp",
+            "selectors": {
+                "css_selector": "div > div:nth-of-type(3) > div:nth-of-type(1) > div > div > div:nth-of-type(2) > div > div:nth-of-type(1) > div > div:nth-of-type(5) > div > img",
+                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[5]/div[1]/img[1]"
+            }
+        },
+        {
+            "value": "https://static-01.daraz.com.np/p/3ef040be10ab59f94b5398621779f326.jpg_100x100.jpg_.webp",
+            "selectors": {
+                "css_selector": "div > div:nth-of-type(3) > div:nth-of-type(1) > div > div > div:nth-of-type(2) > div > div:nth-of-type(1) > div > div:nth-of-type(6) > div > img",
+                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[6]/div[1]/img[1]"
+            }
+        },
+        {
+            "value": "https://static-01.daraz.com.np/p/4fa640b2bf8499a1499823cdaa2bd467.jpg_100x100.jpg_.webp",
+            "selectors": {
+                "css_selector": "div > div:nth-of-type(3) > div:nth-of-type(1) > div > div > div:nth-of-type(2) > div > div:nth-of-type(1) > div > div:nth-of-type(7) > div > img",
+                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[7]/div[1]/img[1]"
+            }
+        },
+        {
+            "value": "https://static-01.daraz.com.np/p/3c6e7b2f17de114a12e1e682772404ec.jpg_100x100.jpg_.webp",
+            "selectors": {
+                "css_selector": "div > div:nth-of-type(3) > div:nth-of-type(1) > div > div > div:nth-of-type(2) > div > div:nth-of-type(1) > div > div:nth-of-type(8) > div > img",
+                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[1]/img[1]"
+            }
+        }
+    ],
+    "product_name": {
+        "value": "Redmi Buds 4 Active Earbud | 30 Hrs Ultra Battery Life | Bluetooth 5.3 | Google Fast Pair",
+        "selectors": {
+            "css_selector": "div > div:nth-of-type(3) > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(3) > div > div > span",
+            "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/span[2]"
+        }
+    },
+    "product_price": {
+        "value": "Rs. 2,999",
+        "selectors": {
+            "css_selector": "div > div:nth-of-type(3) > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(7) > div > div > span",
+            "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]/span[1]"
+        }
+    }
+}

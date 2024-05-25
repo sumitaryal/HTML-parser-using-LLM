@@ -1,0 +1,116 @@
+{
+    "brand_name": {
+        "value": "Didian",
+        "selectors": {
+            "css_selector": "div > div:nth-of-type(3) > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(5) > div > a:nth-of-type(1)",
+            "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[5]/div[1]/a[2]"
+        }
+    },
+    "product_category": {
+        "value": "Snacks",
+        "selectors": {
+            "css_selector": "No CSS Selector Found",
+            "xpath": "No XPath Found"
+        }
+    },
+    "product_description": {
+        "value": "Compressed high energy biscuit in strawberry milk flavor. Fuel your active lifestyle while indulging in delicious taste. Perfect for athletics, gym-goers, cycling, hiking, trekking etc. Easy of carry, pocket and travel friendly. Shelf Life: 24 months. Packing Size: 300 gm (15 gm x 20 packs).",
+        "selectors": {
+            "css_selector": "No CSS Selector Found",
+            "xpath": "No XPath Found"
+        }
+    },
+    "product_images": [
+        {
+            "value": "https://video-play.daraz.com.np/cover/2920570.jpg",
+            "selectors": {
+                "css_selector": "div > div:nth-of-type(3) > div:nth-of-type(1) > div > div > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(2)",
+                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/img[2]"
+            }
+        },
+        {
+            "value": "https://static-01.daraz.com.np/p/9ca6d75bda43354bf46827e16f1c2755.jpg_100x100.jpg_.webp",
+            "selectors": {
+                "css_selector": "div > div:nth-of-type(3) > div:nth-of-type(1) > div > div > div:nth-of-type(2) > div > div:nth-of-type(1) > div > div:nth-of-type(2) > div > img",
+                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/img[1]"
+            }
+        },
+        {
+            "value": "https://static-01.daraz.com.np/p/019ac78905fc8119efd60dd5f447557f.jpg_100x100.jpg_.webp",
+            "selectors": {
+                "css_selector": "div > div:nth-of-type(3) > div:nth-of-type(1) > div > div > div:nth-of-type(2) > div > div:nth-of-type(1) > div > div:nth-of-type(3) > div > img",
+                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/img[1]"
+            }
+        },
+        {
+            "value": "https://static-01.daraz.com.np/p/25e93c2655fa5f44406f2c015b998bb8.jpg_100x100.jpg_.webp",
+            "selectors": {
+                "css_selector": "div > div:nth-of-type(3) > div:nth-of-type(1) > div > div > div:nth-of-type(2) > div > div:nth-of-type(1) > div > div:nth-of-type(4) > div > img",
+                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/img[1]"
+            }
+        },
+        {
+            "value": "https://static-01.daraz.com.np/p/40d118f80593567a38cdf8c9c211d94e.jpg_100x100.jpg_.webp",
+            "selectors": {
+                "css_selector": "div > div:nth-of-type(3) > div:nth-of-type(1) > div > div > div:nth-of-type(2) > div > div:nth-of-type(1) > div > div:nth-of-type(5) > div > img",
+                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[5]/div[1]/img[1]"
+            }
+        },
+        {
+            "value": "https://static-01.daraz.com.np/p/1636b2afc137762a0e1691e61e954251.jpg_78x78.jpg_.webp",
+            "selectors": {
+                "css_selector": "div > div:nth-of-type(6) > div > div > div > div:nth-of-type(2) > div > div > div > div > div > div > div > div:nth-of-type(1) > div:nth-of-type(1) > div > div:nth-of-type(1) > div > img",
+                "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/img[1]"
+            }
+        },
+        {
+            "value": "https://static-01.daraz.com.np/p/e1329dd7f08c806b352b4b2af6064df0.jpg_78x78.jpg_.webp",
+            "selectors": {
+                "css_selector": "div > div:nth-of-type(6) > div > div > div > div:nth-of-type(2) > div > div > div > div > div > div > div > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div > img",
+                "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/img[1]"
+            }
+        },
+        {
+            "value": "https://static-01.daraz.com.np/p/1aaeebf0792f684d2419aeb79982fba9.jpg_78x78.jpg_.webp",
+            "selectors": {
+                "css_selector": "div > div:nth-of-type(6) > div > div > div > div:nth-of-type(2) > div > div > div > div > div > div > div > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div > img",
+                "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/img[1]"
+            }
+        },
+        {
+            "value": "https://static-01.daraz.com.np/p/5ec0de1a07d3949d6cb279110799bc9e.jpg_78x78.jpg_.webp",
+            "selectors": {
+                "css_selector": "div > div:nth-of-type(6) > div > div > div > div:nth-of-type(2) > div > div > div > div > div > div > div > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div > img",
+                "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[1]/div[1]/div[1]/img[1]"
+            }
+        },
+        {
+            "value": "https://static-01.daraz.com.np/p/4ab85cd877a4ffeda70e08bd2a4a77cc.jpg_78x78.jpg_.webp",
+            "selectors": {
+                "css_selector": "div > div:nth-of-type(6) > div > div > div > div:nth-of-type(2) > div > div > div > div > div > div > div > div:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div > img",
+                "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/div[2]/div[1]/div[1]/div[1]/img[1]"
+            }
+        },
+        {
+            "value": "https://static-01.daraz.com.np/p/88ab9ef880437bbbb53e4f506ee687c4.jpg_78x78.jpg_.webp",
+            "selectors": {
+                "css_selector": "div > div:nth-of-type(6) > div > div > div > div:nth-of-type(2) > div > div > div > div > div > div > div > div:nth-of-type(1) > div:nth-of-type(6) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div > img",
+                "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]/div[2]/div[1]/div[1]/div[1]/img[1]"
+            }
+        }
+    ],
+    "product_name": {
+        "value": "Didian Compressed High Energy Biscuit (Strawberry Milk Flavor) - 300 gm (15 gm x 20 packs)",
+        "selectors": {
+            "css_selector": "div > div:nth-of-type(3) > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(3) > div > div > span",
+            "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/span[2]"
+        }
+    },
+    "product_price": {
+        "value": "Rs. 279",
+        "selectors": {
+            "css_selector": "div > div:nth-of-type(3) > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(7) > div > div > span",
+            "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]/span[1]"
+        }
+    }
+}
