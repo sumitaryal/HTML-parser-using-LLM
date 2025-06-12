@@ -1,3 +1,5 @@
+import json
+
 from fastapi import FastAPI, HTTPException, Request
 from src.extractors.extract_attributes import ExtractAttributes
 from src.extractors.extract_selectors import ExtractSelectors
@@ -40,6 +42,7 @@ async def extract_attributes_and_selectors(request: Request):
         
         # Extract selectors using the ExtractSelectors class
         attributes = response.choices[0].message.tool_calls[0].function.arguments
+        attributes = json.loads(attributes) if isinstance(attributes, str) else attributes
         selectors = ExtractSelectors(html_content, attributes).extract_selectors()
         
         # Merge attributes and selectors
