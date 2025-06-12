@@ -22,7 +22,7 @@ class ExtractAttributes:
         load_dotenv()
         self.HF_TOKEN = os.getenv("HF_TOKEN")
         self.html_content = html_content
-        self.model_id = "meta-llama/Meta-Llama-3-8B-Instruct"
+        self.model_id = "meta-llama/Llama-3.1-8B-Instruct"
         self.tools = [
             {
                 "type": "function",
